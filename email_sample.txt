@@ -1,0 +1,11 @@
+Subject: Your Account Will Be Locked – Verify Now!
+From: support@paypa1-security.com
+
+Dear User,
+We detected suspicious activity in your account.
+For your security, your account will be suspended within 24 hours.
+
+Verify your identity immediately:
+https://paypal-security-check.com/verify
+
+Attachment: Security_Update.zip
